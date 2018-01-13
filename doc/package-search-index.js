@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"com.jpmorgan.supersimplestocks"},{"l":"com.jpmorgan.supersimplestocks.model"},{"l":"com.jpmorgan.supersimplestocks.service"}]
